@@ -1,16 +1,55 @@
-## Hi there 👋
+## 👋 Hey, I'm Anthony
 
-<!--
-**anthonyhumphreys/anthonyhumphreys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Developer at Lancaster University.
+I build production systems, AI-powered tools, and developer-first products.
 
-Here are some ideas to get you started:
+Currently building:
+- 🎲 **GMprentice** — AI sandbox for practising GMing without a table - currently in beta https://gmprentice.app
+- ✨ **SPARK** - System Planning & Architecture with Reasoning/Knowledge - Solutions Architect as a Service
+- 💷 **Buy It Once** - BuyOnce helps you understand the true value of what you own. Cost-per-year insights, lifespan tracking, and calm replacement decisions.
+- 🎥 **Dev Influencer Companion** - App to help keep track of content, links and code snippets for developer influencers and content creators
+- See more at https://lexio.app
+- 🛠️ Innovation at Lancaster University (mobile, cloud, AI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about:
+- Shipping and iteration over perfection
+- Thoughtful AI use (agents, guardrails, cost-aware infra)
+- Developer experience and long-lived systems
+
+---
+
+## 🔨 What I Work With
+
+**Frontend**
+- Next.js, React, Expo, React Native
+- Tailwind, Mantine, shadcn/ui, Tamagui
+
+**Backend & Cloud**
+- AWS (Lambda, DynamoDB, S3, AppSync)
+- Azure (OpenAI, DevOps)
+- .NET (Aspire, APIs, Agent Framework)
+- SST, Vercel
+
+**AI / LLMs**
+- GPT
+- Anthropic
+- AI SDK
+- Voice + real-time systems
+- Cost & safety-aware prompting
+  
+
+---
+
+## 🧪 How I Work
+
+- Build in public (when I can)
+- Prototype fast, refactor often
+- Prefer boring tech with sharp edges
+- Treat AI as a collaborator, not a crutch
+
+---
+
+## 🌱 Elsewhere
+
+- X / Twitter: @aphumphreys
+- Blog / dev.to: https://dev.to/anthonyhumphreys
