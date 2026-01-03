@@ -46,7 +46,6 @@ I care about:
 
 - Build in public (when I can)
 - Prototype fast, refactor often
-- Prefer boring tech with sharp edges
 - Treat AI as a collaborator, not a crutch
 
 ---
